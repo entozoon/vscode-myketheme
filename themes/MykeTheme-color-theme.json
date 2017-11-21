@@ -369,7 +369,7 @@
       "https://code.visualstudio.com/docs/getstarted/theme-color-reference",
     "editorBracketMatch.background": "#c9891c",
     "focusBorder": "#DC7D58",
-    "foreground": "#45dc45",
+    "foreground": "#dca045",
     "dropdown.background": "#000000",
     "input.background": "#000000",
     "inputOption.activeBorder": "#DC7D58",
