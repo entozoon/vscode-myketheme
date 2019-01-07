@@ -2,7 +2,7 @@
 
 My bonkers personal color scheme, based loosely on the [previous Atom version](https://github.com/entozoon/atom-myke-theme-syntax) and the sublime one before that.
 
-![Cheeky screenshot](http://i.imgur.com/xUooK1R.png)
+![Cheeky screenshot](https://i.imgur.com/xUooK1R.png)
 
 ## Install
 
