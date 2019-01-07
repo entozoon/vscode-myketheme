@@ -1,5 +1,5 @@
 {
-  "name": "MykeTheme",
+  "name": "myketheme_",
   "tokenColors": [
     {
       "name": "Global settings",
@@ -31,8 +31,7 @@
     },
     {
       "name": "Identifier",
-      "scope":
-        "variable, support.variable, support.class, support.constant, meta.definition.variable entity.name.function",
+      "scope": "variable, support.variable, support.class, support.constant, meta.definition.variable entity.name.function",
       "settings": {
         "foreground": "#108FEF"
       }
@@ -183,8 +182,7 @@
     },
     {
       "name": "JSON key",
-      "scope":
-        "meta.object-literal.key, meta.object-literal.key string, support.type.property-name.json",
+      "scope": "meta.object-literal.key, meta.object-literal.key string, support.type.property-name.json",
       "settings": {
         "foreground": "#108FEF"
       }
@@ -321,8 +319,7 @@
     },
     {
       "name": "C# function call",
-      "scope":
-        "source.cs meta.method-call meta.method, source.cs entity.name.function",
+      "scope": "source.cs meta.method-call meta.method, source.cs entity.name.function",
       "settings": {
         "foreground": "#fff099"
       }
@@ -364,8 +361,7 @@
     }
   ],
   "colors": {
-    "HERE-DUDE":
-      "https://code.visualstudio.com/docs/getstarted/theme-color-reference",
+    "HERE-DUDE": "https://code.visualstudio.com/docs/getstarted/theme-color-reference",
     "editorBracketMatch.background": "#c9891c",
     "focusBorder": "#DC7D58",
     "foreground": "#dca045",

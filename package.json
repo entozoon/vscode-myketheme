@@ -1,7 +1,7 @@
 {
   "name": "vscode-myketheme",
-  "displayName": "myketheme",
-  "version": "1.0.2",
+  "displayName": "MykeTheme",
+  "version": "1.1.1",
   "publisher": "entozoon",
   "description": "My bonkers personal color scheme, based loosely on the [previous Atom version](https://github.com/entozoon/atom-myke-theme-syntax) and the sublime one before that.",
   "scripts": {
@@ -9,29 +9,24 @@
     "publish": "vsce publish"
   },
   "engines": {
-    "vscode": "^1.18.0"
+    "vscode": "^1.29.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "myketheme",
+        "label": "MykeTheme",
         "uiTheme": "vs-dark",
         "path": "./themes/myketheme.json"
       }
     ]
   },
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/entozoon/vscode-myketheme.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/entozoon/vscode-myketheme/issues"
-  },
-  "homepage": "https://github.com/entozoon/vscode-myketheme#readme"
+  "dependencies": {}
 }
