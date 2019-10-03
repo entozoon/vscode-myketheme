@@ -12,6 +12,6 @@ Search for extension, install and reload. Then `ctrl-shift-p` > Preferences: Col
 
 I first built this with the vscode theme generator but it's garbage. Well, it's not but is rather limited, so boshed out all this boringness by hand.
 
-Note to self: 'vsce' Publish token valid til Oct 2020 in azure, with all accessible organizations.
+Note to self: 'vsce' Publish token valid til Oct 2020 in azure, with all accessible organizations. See email
 
 https://dev.azure.com/dragonzoom/_usersSettings/tokens
