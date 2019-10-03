@@ -362,7 +362,8 @@
   ],
   "colors": {
     "HERE-DUDE": "https://code.visualstudio.com/docs/getstarted/theme-color-reference",
-    "editorBracketMatch.background": "#c9891c",
+    "editorBracketMatch.background": "#46300A",
+    "editorBracketMatch.border": "#46300A",
     "focusBorder": "#DC7D58",
     "foreground": "#dca045",
     "dropdown.background": "#000000",
