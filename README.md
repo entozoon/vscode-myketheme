@@ -12,6 +12,11 @@ Search for extension, install and reload. Then `ctrl-shift-p` > Preferences: Col
 
 I first built this with the vscode theme generator but it's garbage. Well, it's not but is rather limited, so boshed out all this boringness by hand.
 
-Note to self: 'vsce' Publish token valid til Oct 2020 in azure, with all accessible organizations. See email
+Note to self: Current 'vsce' Publish token valid til 31/01/2022. Re-make in azure, set to All Accessible Organizations.
 
 https://dev.azure.com/dragonzoom/_usersSettings/tokens
+
+Then npm run login, npm run publish
+
+.monaco-editor .ced-1-TextEditorDecorationType1-4:after {
+important
