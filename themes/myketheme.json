@@ -408,7 +408,11 @@
     "titleBar.activeBackground": "#000000",
     "pickerGroup.border": "#FFFFFF1a",
     "debugToolBar.background": "#000000",
-    "selection.background": "#DC7D58"
+    "selection.background": "#DC7D58",
+    "settings.htmlEndTagLabels.labelColor": "#0000ff"
   },
-  "htmlEndTagLabels.labelColor": "#38251d"
+  "settings": {
+    "htmlEndTagLabels.labelColor": "#00ff00"
+  },
+  "settings.htmlEndTagLabels.labelColor": "#00ffff"
 }
