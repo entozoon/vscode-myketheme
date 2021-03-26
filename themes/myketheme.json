@@ -409,10 +409,9 @@
     "pickerGroup.border": "#FFFFFF1a",
     "debugToolBar.background": "#000000",
     "selection.background": "#DC7D58",
-    "settings.htmlEndTagLabels.labelColor": "#0000ff"
-  },
-  "settings": {
-    "htmlEndTagLabels.labelColor": "#00ff00"
-  },
-  "settings.htmlEndTagLabels.labelColor": "#00ffff"
+    // HTML End Tag Labels plugin
+    // https://github.com/anteprimorac/vscode-html-end-tag-labels/issues/196
+    // "htmlEndTagLabels.labelColor": "#38251d" // no joy - it's a plugin setting
+    "editorCodeLens.foreground": "#38251d" // workaround
+  }
 }

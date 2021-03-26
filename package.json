@@ -1,7 +1,7 @@
 {
   "name": "vscode-myketheme",
   "displayName": "MykeTheme",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "publisher": "entozoon",
   "description": "My bonkers personal color scheme, based loosely on the [previous Atom version](https://github.com/entozoon/atom-myke-theme-syntax) and the sublime one before that.",
   "scripts": {
