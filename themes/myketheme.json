@@ -408,9 +408,7 @@
     "titleBar.activeBackground": "#000000",
     "pickerGroup.border": "#FFFFFF1a",
     "debugToolBar.background": "#000000",
-    "selection.background": "#DC7D58",
-    // HTML End Tag Labels plugin. Not ideal setting though:
-    // https://github.com/anteprimorac/vscode-html-end-tag-labels/issues/196
-    "editorCodeLens.foreground": "#38251d"
-  }
+    "selection.background": "#DC7D58"
+  },
+  "htmlEndTagLabels.labelColor": "#38251d"
 }
